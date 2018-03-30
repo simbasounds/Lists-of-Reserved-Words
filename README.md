@@ -1,5 +1,5 @@
-# Vue.js List of Reserved Words
-A list of words reserved by Vue.js in alphabetical order.
+# Lists of Reserved Words
+A list of words reserved by various languages sorted into alphabetical order.
 
 # Why?
 It's just the way I learn sometimes.
